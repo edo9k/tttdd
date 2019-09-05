@@ -1,0 +1,32 @@
+{
+  "name": "tttdd",
+  "version": "0.0.1",
+  "description": "Testing Tests Test Driven Development is a test repo (duh), to check some of my concerns and doubts regarding validate.js and lodash driven validation. Quite a mouthful. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edo9k/tttdd.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "tdd",
+    "jest",
+    "lodash",
+    "validator"
+  ],
+  "author": "Eduardo França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edo9k/tttdd/issues"
+  },
+  "homepage": "https://github.com/edo9k/tttdd#readme",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15",
+    "validator": "^11.1.0"
+  }
+}
