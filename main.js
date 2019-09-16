@@ -1,5 +1,7 @@
 /** @format */
 
+console.log('this is a conflict')
+
 const _ = require('lodash')
 const validator = require('validator')
 
